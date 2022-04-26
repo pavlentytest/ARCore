@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ar.sceneform:sceneform-base:1.17.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/483941cdb3ea9af9c4da738ab8c0a26a/transformed/jetified-sceneform-base-1.17.1/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-3/6673f7b5cb28263a239a5744f724e323/transformed/jetified-sceneform-base-1.17.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-3/6673f7b5cb28263a239a5744f724e323/transformed/jetified-sceneform-base-1.17.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-3/6673f7b5cb28263a239a5744f724e323/transformed/jetified-sceneform-base-1.17.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
